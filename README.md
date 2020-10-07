@@ -1,8 +1,1 @@
-/******
-*
-*
-* CSE101- Group 22
-* Assignment 3: Computer History 
-*
-*
-******/
+/****** CSE101 * Group 22 * Assignment 3 * Computer History ******/
